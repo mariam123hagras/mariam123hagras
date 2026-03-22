@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariam123hagras&label=Profile%20views&color=0e75b6&style=flat" alt="mariam123hagras" /> </p>
 
-- 🔭 I’m currently working on [Hotel-Booking](https://github.com/mariam123hagras/Hotel-Booking)
 
 - 📫 How to reach me **mariamhagras99@gmail.com**
 
